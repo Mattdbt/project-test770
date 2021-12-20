@@ -1,9 +1,12 @@
 .DS_Store
+.gitignore
+requirements.txt
 setup.py
 otherpackage/__init__.py
 otherpackage/fun.py
 otherpackage/__pycache__/__init__.cpython-38.pyc
 otherpackage/__pycache__/fun.cpython-38.pyc
+scripts/batch-run
 test770/.DS_Store
 test770/__init__.py
 test770/lib.py
