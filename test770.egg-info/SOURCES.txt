@@ -13,6 +13,7 @@ test770/lib.py
 test770.egg-info/PKG-INFO
 test770.egg-info/SOURCES.txt
 test770.egg-info/dependency_links.txt
+test770.egg-info/requires.txt
 test770.egg-info/top_level.txt
 test770/__pycache__/__init__.cpython-38.pyc
 test770/__pycache__/lib.cpython-38.pyc
