@@ -8,4 +8,4 @@ setup(name='test770',
       description="first package",
       packages=find_packages,
       requires=requirements,
-      scripts=['scripts/batch_run'])
+      scripts=['scripts/batch-run'])
