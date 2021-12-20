@@ -7,5 +7,5 @@ with open('requirements.txt') as f:
 setup(name='test770',
       description="first package",
       packages=find_packages(),
-      requires=requirements,
+      install_requires=requirements,
       scripts=['scripts/batch-run'])
